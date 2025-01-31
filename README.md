@@ -39,6 +39,7 @@ Refer to the [API reference](https://learn.mattr.global/api-reference/latest/tag
 You also need to [create a trusted issuer](https://learn.mattr.global/api-reference/latest/tag/mDocs-verification#operation/addMobileCredentialTrustedIssuer) using the issuer's certificate.
 Check out our [IACA Validator](https://tools.mattrlabs.dev/pem) if you have issues with the issuer certificate (or if you want to inspect the contents of the certificate).
 
+
 <details>
   <summary>Sample request to add a trusted issuer</summary>
 
